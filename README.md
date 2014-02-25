@@ -1,0 +1,4 @@
+COLOROS
+=======
+
+STRINGS FOR COLOROS
